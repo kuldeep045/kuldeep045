@@ -5,8 +5,8 @@
 
 
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **development**
 
-- 💬 Ask me about **React, Java, JavaScript**
+- 💬 Ask me about **React, Java, JavaScript, NextJS**
 
-- 📫 How to reach me **cooldeep788@gmail.com**
+- 📫 How to reach me **cooldeepus52@gmail.com**
